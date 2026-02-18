@@ -33,3 +33,6 @@ Action: Feeds all the data (metrics + news) into the LLM to write a textual summ
 `app.py`
 Role: Display.
 Action: A Streamlit dashboard that visualizes your holdings, charts, AI discoveries, and news in a web browser.
+
+Screnshots 
+![](images/aiinsights.png)
