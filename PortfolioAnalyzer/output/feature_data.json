@@ -1,0 +1,247 @@
+{
+  "as_of": "2026-02-18T16:19:23.085522+00:00",
+  "portfolio_summary": {
+    "total_market_value": 185936.35749435425,
+    "top_exposures": [
+      {
+        "ticker": "INRG.DE",
+        "name": "iShares Global Clean Energy Transition (Dist)",
+        "weight_pct": 32.60188099674945,
+        "market_value": 60618.75
+      },
+      {
+        "ticker": "RHM.DE",
+        "name": "Rheinmetall",
+        "weight_pct": 18.070699271937833,
+        "market_value": 33600.0
+      },
+      {
+        "ticker": "VH2.DE",
+        "name": "Friedrich Vorwerk Group",
+        "weight_pct": 9.325771260295312,
+        "market_value": 17339.999389648438
+      }
+    ]
+  },
+  "sector_distribution": {
+    "Renewables": 32.60188099674945,
+    "Defense & Automotive": 18.070699271937833,
+    "Semiconductors": 16.054509116119327,
+    "Energy Infrastructure": 9.325771260295312,
+    "Consumer Staples": 8.169608858119885,
+    "Consumer Discretionary": 5.307595638093348,
+    "Auto & Tech": 4.014018755798471,
+    "Emerging Markets": 2.6600392714437913,
+    "US Broad Market": 1.7230439217883735,
+    "Financials (BDC)": 1.2808683942802357,
+    "Healthcare": 0.7919645153739725
+  },
+  "risk_metrics": {
+    "per_ticker_volatility": {
+      "ASML": 0.03882183214153111,
+      "COST": 0.03916383488363402,
+      "VH2.DE": 0.04867223210034937,
+      "OR.PA": 0.031067194860163353,
+      "MAIN": 0.028858945928331624,
+      "NVO": 0.08240194152221039,
+      "NVDA": 0.029496288091312644,
+      "RHM.DE": 0.06996501175259283,
+      "TSM": 0.03106896504914836,
+      "TSLA": 0.03954248304245246,
+      "SPXD.DE": 0.008122111474012149,
+      "INRG.DE": 0.019659273106583768,
+      "IIND.DE": 0.023602329196669946,
+      "ISAC.DE": 0.00568634898868818
+    },
+    "portfolio_volatility": 0.020754927141379602,
+    "benchmark": {
+      "symbol": "URTH",
+      "volatility": 0.007797966442302854
+    },
+    "correlation_matrix": {}
+  },
+  "items": {
+    "ASML": {
+      "name": "ASML Holding",
+      "sector": "Semiconductors",
+      "country": "Netherlands",
+      "asset_type": "Stock",
+      "quantity": 10.0,
+      "current_price": 1468.25,
+      "market_value": 14682.5,
+      "weight_pct": 7.896519108935335,
+      "volatility_recent_window": 0.03882183214153111,
+      "beta": 1.462,
+      "resolved_symbol": null
+    },
+    "COST": {
+      "name": "Costco Wholesale",
+      "sector": "Consumer Staples",
+      "country": "USA",
+      "asset_type": "Stock",
+      "quantity": 15.0,
+      "current_price": 1012.6848754882812,
+      "market_value": 15190.273132324219,
+      "weight_pct": 8.169608858119885,
+      "volatility_recent_window": 0.03916383488363402,
+      "beta": 1.008,
+      "resolved_symbol": null
+    },
+    "VH2.DE": {
+      "name": "Friedrich Vorwerk Group",
+      "sector": "Energy Infrastructure",
+      "country": "Germany",
+      "asset_type": "Stock",
+      "quantity": 200.0,
+      "current_price": 86.69999694824219,
+      "market_value": 17339.999389648438,
+      "weight_pct": 9.325771260295312,
+      "volatility_recent_window": 0.04867223210034937,
+      "beta": 0.882,
+      "resolved_symbol": null
+    },
+    "OR.PA": {
+      "name": "L'Oreal",
+      "sector": "Consumer Discretionary",
+      "country": "France",
+      "asset_type": "Stock",
+      "quantity": 25.0,
+      "current_price": 394.75,
+      "market_value": 9868.75,
+      "weight_pct": 5.307595638093348,
+      "volatility_recent_window": 0.031067194860163353,
+      "beta": 0.894,
+      "resolved_symbol": null
+    },
+    "MAIN": {
+      "name": "Main Street Capital Co",
+      "sector": "Financials (BDC)",
+      "country": "USA",
+      "asset_type": "Stock",
+      "quantity": 40.0,
+      "current_price": 59.540000915527344,
+      "market_value": 2381.6000366210938,
+      "weight_pct": 1.2808683942802357,
+      "volatility_recent_window": 0.028858945928331624,
+      "beta": 0.784,
+      "resolved_symbol": null
+    },
+    "NVO": {
+      "name": "Novo Nordisk ADR B",
+      "sector": "Healthcare",
+      "country": "Denmark",
+      "asset_type": "Stock",
+      "quantity": 30.0,
+      "current_price": 49.084999084472656,
+      "market_value": 1472.5499725341797,
+      "weight_pct": 0.7919645153739725,
+      "volatility_recent_window": 0.08240194152221039,
+      "beta": 0.403,
+      "resolved_symbol": null
+    },
+    "NVDA": {
+      "name": "NVIDIA",
+      "sector": "Semiconductors",
+      "country": "USA",
+      "asset_type": "Stock",
+      "quantity": 12.0,
+      "current_price": 189.75999450683594,
+      "market_value": 2277.1199340820312,
+      "weight_pct": 1.2246770694920026,
+      "volatility_recent_window": 0.029496288091312644,
+      "beta": 2.314,
+      "resolved_symbol": null
+    },
+    "RHM.DE": {
+      "name": "Rheinmetall",
+      "sector": "Defense & Automotive",
+      "country": "Germany",
+      "asset_type": "Stock",
+      "quantity": 20.0,
+      "current_price": 1680.0,
+      "market_value": 33600.0,
+      "weight_pct": 18.070699271937833,
+      "volatility_recent_window": 0.06996501175259283,
+      "beta": 0.396,
+      "resolved_symbol": null
+    },
+    "TSM": {
+      "name": "Taiwan Semiconductor Manufacturing",
+      "sector": "Semiconductors",
+      "country": "Taiwan",
+      "asset_type": "Stock",
+      "quantity": 35.0,
+      "current_price": 368.3299865722656,
+      "market_value": 12891.549530029297,
+      "weight_pct": 6.9333129376919915,
+      "volatility_recent_window": 0.03106896504914836,
+      "beta": 1.272,
+      "resolved_symbol": null
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "sector": "Auto & Tech",
+      "country": "USA",
+      "asset_type": "Stock",
+      "quantity": 18.0,
+      "current_price": 414.6400146484375,
+      "market_value": 7463.520263671875,
+      "weight_pct": 4.014018755798471,
+      "volatility_recent_window": 0.03954248304245246,
+      "beta": 1.887,
+      "resolved_symbol": null
+    },
+    "SPXD.DE": {
+      "name": "Invesco S&P 500 (Dist)",
+      "sector": "US Broad Market",
+      "country": "USA",
+      "asset_type": "ETF",
+      "quantity": 50.0,
+      "current_price": 64.07530212402344,
+      "market_value": 3203.765106201172,
+      "weight_pct": 1.7230439217883735,
+      "volatility_recent_window": 0.008122111474012149,
+      "beta": null,
+      "resolved_symbol": null
+    },
+    "INRG.DE": {
+      "name": "iShares Global Clean Energy Transition (Dist)",
+      "sector": "Renewables",
+      "country": "Global",
+      "asset_type": "ETF",
+      "quantity": 75.0,
+      "current_price": 808.25,
+      "market_value": 60618.75,
+      "weight_pct": 32.60188099674945,
+      "volatility_recent_window": 0.019659273106583768,
+      "beta": null,
+      "resolved_symbol": null
+    },
+    "IIND.DE": {
+      "name": "iShares MSCI India (Acc)",
+      "sector": "Emerging Markets",
+      "country": "India",
+      "asset_type": "ETF",
+      "quantity": 60.0,
+      "current_price": 7.11299991607666,
+      "market_value": 426.7799949645996,
+      "weight_pct": 0.22953014715132208,
+      "volatility_recent_window": 0.023602329196669946,
+      "beta": null,
+      "resolved_symbol": null
+    },
+    "ISAC.DE": {
+      "name": "iShares MSCI Saudi Arabia Capped (Dist)",
+      "sector": "Emerging Markets",
+      "country": "Saudi Arabia",
+      "asset_type": "ETF",
+      "quantity": 40.0,
+      "current_price": 112.9800033569336,
+      "market_value": 4519.200134277344,
+      "weight_pct": 2.430509124292469,
+      "volatility_recent_window": 0.00568634898868818,
+      "beta": 1.01,
+      "resolved_symbol": null
+    }
+  }
+}

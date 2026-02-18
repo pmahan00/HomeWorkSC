@@ -1,0 +1,54 @@
+{
+  "internal_analysis": {
+    "top_sector": "Renewables",
+    "top_country": "USA"
+  },
+  "external_discovery": {
+    "sector_peers": [
+      {
+        "ticker": "FSLR",
+        "name": "First Solar, Inc.",
+        "reason": "Based on search result: [Ultima Markets/Gainify] Identified as a top renewable energy stock for 2026 with a contracted backlog extending to 2030 and strong manufacturing capacity, positioning it as a key competitor in the solar space.",
+        "current_price": 232.46,
+        "currency": "USD"
+      },
+      {
+        "ticker": "NEE",
+        "name": "NextEra Energy, Inc.",
+        "reason": "Based on search result: [IG International/Kiplinger] Highlighted as a 'heavyweight' in the sector, combining a regulated utility with the world's largest wind and solar power development platform, offering defensive stability and growth.",
+        "current_price": 91.31,
+        "currency": "USD"
+      },
+      {
+        "ticker": "ENPH",
+        "name": "Enphase Energy, Inc.",
+        "reason": "Based on search result: [MarketBeat/Gainify] Listed as a main competitor to First Solar and Tesla in the solar technology space, specializing in microinverters and home energy solutions with strong expected sales growth.",
+        "current_price": 46.11,
+        "currency": "USD"
+      }
+    ],
+    "country_peers": [
+      {
+        "ticker": "WDC",
+        "name": "Western Digital Corporation",
+        "reason": "Based on search result: [Bankrate/Morningstar] Consistently ranked as one of the best-performing S&P 500 stocks in 2025, driven by strong demand in the data storage sector.",
+        "current_price": 301.01,
+        "currency": "USD"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "reason": "Based on search result: [Morningstar/Seeking Alpha] Identified as a top stock for 2025/2026, ranking highly in the semiconductor industry with significant year-to-date performance gains.",
+        "current_price": 422.86,
+        "currency": "USD"
+      },
+      {
+        "ticker": "STX",
+        "name": "Seagate Technology Holdings plc",
+        "reason": "Based on search result: [Bankrate/NerdWallet] Listed among the top-performing stocks of 2025, showing substantial returns alongside other data storage leaders.",
+        "current_price": 428.8,
+        "currency": "USD"
+      }
+    ]
+  }
+}

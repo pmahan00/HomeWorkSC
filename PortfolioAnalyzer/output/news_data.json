@@ -1,0 +1,442 @@
+{
+  "as_of": "2026-02-18T16:21:25.946652+00:00",
+  "items": {
+    "ASML": {
+      "ticker": "ASML",
+      "name": "ASML Holding",
+      "stories": [
+        {
+          "title": "ASML Reports Record Q4 2025 Revenue and Strong Order Intake",
+          "summary": "ASML Holding reported a record fourth-quarter net revenue of \u20ac9.7 billion and a net income of \u20ac2.8 billion, exceeding analyst expectations. The company also announced a massive surge in net bookings to \u20ac13.2 billion, driven by robust demand for EUV lithography systems amidst the AI infrastructure boom.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-28",
+          "url": "https://www.asml.com/en/investors/financial-results/q4-2025"
+        },
+        {
+          "title": "ASML Announces New \u20ac12 Billion Share Buyback Program",
+          "summary": " alongside its strong earnings results, ASML announced a new share repurchase program authorizing the buyback of up to \u20ac12 billion in shares by 2028. The company also increased its dividend, signaling confidence in its long-term cash flow and commitment to shareholder returns.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-28",
+          "url": "https://www.asml.com/en/investors"
+        },
+        {
+          "title": "Wall Street Analysts Raise Price Targets Following Earnings Beat",
+          "summary": "Following ASML's robust Q4 performance and 2026 outlook, major financial institutions including Bernstein and Barclays upgraded their ratings and raised price targets. The stock has surged approximately 11% over the past month as analysts cite improving earnings visibility and AI-driven demand.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-17",
+          "url": "https://finviz.com/quote.ashx?t=ASML"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 3,
+        "label": "positive"
+      }
+    },
+    "COST": {
+      "ticker": "COST",
+      "name": "Costco Wholesale",
+      "stories": [
+        {
+          "title": "Costco Reports Strong January Sales Surge Led by Digital Growth",
+          "summary": "Costco reported a 9.3% increase in net sales to $21.33 billion for the retail month of January. The company saw significant momentum in its e-commerce division, with digitally enabled comparable sales surging 34.4% year-over-year.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-09",
+          "url": "https://www.zacks.com/stock/news/2425555/is-costcos-january-sales-surge-fueling-a-bigger-2026-rally"
+        },
+        {
+          "title": "Analysts Raise Price Targets Following Strong Digital and Warehouse Performance",
+          "summary": "Multiple financial firms, including Rothschild & Co and Bernstein, have raised their price targets for Costco, with some targets reaching as high as $1,155. Analysts cited the retailer's \"dual engine\" of growth, driven by accelerating e-commerce trends and sustained warehouse traffic.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-17",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/COST/news/"
+        },
+        {
+          "title": "Costco Beats Q1 Fiscal 2026 Earnings and Revenue Estimates",
+          "summary": "In its fiscal first-quarter report, Costco posted earnings per share of $4.34, beating the consensus estimate of $4.27. Revenue for the quarter came in at $67.31 billion, up 8.3% year-over-year, supported by solid membership renewal rates.",
+          "sentiment_label": "positive",
+          "published_at": "2025-12-11",
+          "url": "https://www.nasdaq.com/market-activity/stocks/cost/news-headlines"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 3,
+        "label": "positive"
+      }
+    },
+    "VH2.DE": {
+      "ticker": "VH2.DE",
+      "name": "Friedrich Vorwerk Group",
+      "stories": [
+        {
+          "title": "Preliminary FY 2025 Results Beat Expectations",
+          "summary": "Friedrich Vorwerk Group SE announced preliminary figures for the 2025 fiscal year, reporting revenue of \u20ac704 million and an EBITDA margin of 23.2%. These results significantly exceeded the company's own forecasts and market expectations, driven by favorable weather conditions and strong operational performance.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-26",
+          "url": "https://www.boersennews.de/nachrichten/artikel/friedrich-vorwerk-group-aktie-vh2-de000a255f11/"
+        },
+        {
+          "title": "Analyst Upgrades Follow Record Results",
+          "summary": "Following the strong preliminary financial results, analysts responded positively, with Berenberg Bank raising its price target for Friedrich Vorwerk shares from \u20ac105 to \u20ac110 and maintaining a 'Buy' rating. The upgrades highlighted the company's operational strength and successful execution of energy infrastructure projects.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-27",
+          "url": "https://www.finanznachrichten.de/nachrichten-aktien/friedrich-vorwerk-group-se.htm"
+        },
+        {
+          "title": "Stock Surge and Voting Rights Announcement",
+          "summary": "Friedrich Vorwerk shares experienced a significant price surge in mid-February, described as a 'rocket' move in the SDAX, coinciding with a voting rights announcement regarding major shareholdings. The stock momentum continued to reflect investor confidence following the company's record-breaking fiscal year.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-13",
+          "url": "https://www.wallstreet-online.de/aktien/friedrich-vorwerk-group-aktie/nachrichten"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 3,
+        "label": "positive"
+      }
+    },
+    "OR.PA": {
+      "ticker": "OR.PA",
+      "name": "L'Oreal",
+      "stories": [
+        {
+          "title": "L'Or\u00e9al Shares Slide Following 2025 Annual Results Miss",
+          "summary": "L'Or\u00e9al reported its full-year 2025 financial results, revealing a sales miss that triggered a significant stock decline of approximately 6%. While the company achieved 4% organic growth, performance was hampered by continued weakness in the North Asia market and challenges in the travel retail sector.",
+          "sentiment_label": "negative",
+          "published_at": "2026-02-13",
+          "url": "https://www.loreal-finance.com/en/system/files/2026-02/LOREAL_2025_Annual_Results_EN.pdf"
+        },
+        {
+          "title": "HSBC Upgrades L'Or\u00e9al to 'Buy' After Post-Earnings Dip",
+          "summary": "Following the sell-off triggered by its annual results, L'Or\u00e9al received a stock upgrade from HSBC, moving the rating to 'Buy'. Analysts cited the company's strong fundamental outlook and viewed the recent price decline as an attractive entry point despite short-term headwinds in China.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-17",
+          "url": "https://www.nasdaq.com/articles/loreal-otc:lrlcy-stock-upgrade-and-financial-performance"
+        },
+        {
+          "title": "L'Or\u00e9al Increases Strategic Stake in Galderma to 20%",
+          "summary": "L'Or\u00e9al announced the acquisition of an additional 10% stake in Galderma Group AG from a consortium led by EQT, bringing its total ownership to 20%. This strategic move is designed to reinforce the company's presence in the fast-growing aesthetics market.",
+          "sentiment_label": "positive",
+          "published_at": "2025-12-08",
+          "url": "https://www.loreal-finance.com/en/press-release/loreal-groupe-reinforce-its-strategic-investment-galderma-additional-10-bringing"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 1,
+        "label": "positive"
+      }
+    },
+    "MAIN": {
+      "ticker": "MAIN",
+      "name": "Main Street Capital Co",
+      "stories": [
+        {
+          "title": "Main Street Capital Expands Revolving Credit Facility to $1.175 Billion",
+          "summary": "Main Street Capital Corporation announced an increase in the total commitments under its multi-year revolving credit facility, raising the capacity to $1.175 billion. The expansion is intended to bolster the company's liquidity and support its continued investment activities and portfolio growth.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-10",
+          "url": "https://www.investing.com/news/company-news/main-street-capital-expands-credit-facility-to-1175-billion-93CH-3868211"
+        },
+        {
+          "title": "Main Street Capital Releases Positive Q4 2025 Earnings Guidance",
+          "summary": "The company provided a preliminary update for its fourth-quarter 2025 results, estimating earnings per share between $1.07 and $1.11, which exceeds analyst consensus expectations. Main Street also highlighted a continued increase in its net asset value (NAV) per share, marking consecutive quarters of growth.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-15",
+          "url": "https://www.marketbeat.com/stocks/NYSE/MAIN/news/"
+        },
+        {
+          "title": "Main Street Capital Reports $387.1 Million in Q4 Private Loan Originations",
+          "summary": "Main Street Capital disclosed strong activity in its private loan portfolio for the fourth quarter of 2025, originating $387.1 million in new or increased commitments. This volume represents a significant increase from the $117.3 million recorded in the third quarter, signaling robust deal flow.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-08",
+          "url": "https://seekingalpha.com/news/4189211-main-street-capital-originates-387_1m-of-private-loan-commitments-in-q4"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 3,
+        "label": "positive"
+      }
+    },
+    "NVO": {
+      "ticker": "NVO",
+      "name": "Novo Nordisk ADR B",
+      "stories": [
+        {
+          "title": "Novo Nordisk Shares Plunge on Weak 2026 Sales Outlook",
+          "summary": "Novo Nordisk shares fell sharply after the company forecasted a 5-13% decline in sales and operating profit for 2026, citing pricing pressures in the US and intensifying competition. The guidance disappointed investors, overshadowing the company's 10% sales growth reported for the full year 2025.",
+          "sentiment_label": "negative",
+          "published_at": "2026-02-04",
+          "url": null
+        },
+        {
+          "title": "EU Approves Higher 7.2 mg Dosage of Wegovy",
+          "summary": "The European Commission has granted approval for a new 7.2 mg maintenance dose of the weight-loss drug Wegovy. This higher dosage option is designed for adults requiring further weight reduction and will be available across all 27 EU member countries.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-17",
+          "url": null
+        },
+        {
+          "title": "Novo Nordisk Launches Oral Wegovy in the U.S.",
+          "summary": "Following FDA approval in December 2025, Novo Nordisk launched its oral formulation of Wegovy in the United States on January 5, 2026. Early data indicates encouraging uptake with approximately 50,000 weekly prescriptions shortly after launch.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-05",
+          "url": null
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 1,
+        "label": "positive"
+      }
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "stories": [
+        {
+          "title": "NVIDIA Unveils Rubin AI Platform and 'Alpamayo' at CES 2026",
+          "summary": "At CES 2026, CEO Jensen Huang announced the Rubin AI platform, the successor to Blackwell, and 'Alpamayo,' a reasoning-based AI model designed for autonomous driving. The company also highlighted partnerships with Mercedes-Benz and Siemens, signaling a strategic push into 'physical AI' and robotics.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-07",
+          "url": "https://www.forbes.com/sites/nvidia-ces-2026-announcements"
+        },
+        {
+          "title": "Q4 Fiscal 2026 Earnings Preview: Analysts Eye $65 Billion Revenue",
+          "summary": "NVIDIA is scheduled to report Q4 fiscal 2026 earnings on February 25, 2026, with consensus revenue estimates around $65-66 billion, driven by continued demand for AI infrastructure. Despite strong fundamentals, the stock has seen recent volatility as investors weigh high valuation multiples against future guidance.",
+          "sentiment_label": "neutral",
+          "published_at": "2026-02-17",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/"
+        },
+        {
+          "title": "Insider Selling and Institutional Shifts Weigh on NVIDIA Stock",
+          "summary": "Recent filings reveal significant insider selling, including transactions by the CFO and Directors, alongside reports that SoftBank has dissolved its stake in the company. While analysts maintain buy ratings based on fundamentals, the heavy insider disposal has contributed to short-term negative sentiment.",
+          "sentiment_label": "negative",
+          "published_at": "2026-02-18",
+          "url": "https://www.247wallst.com/technology/2026/02/17/nvidia-nvda-insider-selling-impact"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 0,
+        "label": "neutral"
+      }
+    },
+    "RHM.DE": {
+      "ticker": "RHM.DE",
+      "name": "Rheinmetall",
+      "stories": [
+        {
+          "title": "Rheinmetall Wins Record \u20ac3.1 Billion Framework Contract for Soldier Systems",
+          "summary": "The German Bundeswehr has awarded Rheinmetall a major framework contract valued at up to \u20ac3.1 billion to modernize the \"Infantry Soldier of the Future\" (IdZ-ES) system. The agreement, which runs through 2030, includes an initial firm order worth approximately \u20ac417 million to supply and upgrade platoon systems for digital battlefield operations.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-07",
+          "url": "https://www.rheinmetall.com/en/media/news-watch/news/2026/02/07/rheinmetall-awarded-framework-contract-for-soldier-systems"
+        },
+        {
+          "title": "Rheinmetall Reaffirms 2025 Outlook and Issues 2026 Revenue Guidance",
+          "summary": "Rheinmetall confirmed its 2025 defense sales growth targets of 30-35% but issued initial 2026 revenue guidance of \u20ac15-16 billion, which fell slightly below some analyst expectations due to consolidation effects. Despite the mixed market reaction, the company projects a strong operating margin of 18-20% and expects order intake to reach approximately \u20ac80 billion in 2026.",
+          "sentiment_label": "neutral",
+          "published_at": "2026-02-04",
+          "url": "https://www.marketbeat.com/originals/rheinmetall-reaffirms-2025-defense-outlook-flags-15-16b-2026-sales-on-german-order-surge/"
+        },
+        {
+          "title": "Netherlands Signs Major Contract for Skyranger 30 Air Defense Systems",
+          "summary": "The Dutch Ministry of Defence has signed a contract with Rheinmetall for the delivery of Skyranger 30 mobile air defense systems, a deal valued in the triple-digit million euro range. Deliveries are scheduled to begin in 2028, with the systems intended to enhance the Netherlands' capabilities against drone threats.",
+          "sentiment_label": "positive",
+          "published_at": "2025-12-12",
+          "url": "https://www.rheinmetall.com/en/media/news-watch/news/2025/12/12/rheinmetall-to-supply-skyranger-30-to-the-netherlands"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 2,
+        "label": "positive"
+      }
+    },
+    "TSM": {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing",
+      "stories": [
+        {
+          "title": "TSMC Reports Record January 2026 Revenue on AI Demand",
+          "summary": "Taiwan Semiconductor Manufacturing Co. announced consolidated net revenue of NT$401.26 billion (approx. US$12.71 billion) for January 2026, marking a 36.8% increase year-over-year and a 19.8% rise from the previous month. The record-breaking performance was driven by robust global demand for advanced AI chips and high-performance computing applications.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-10",
+          "url": "https://focustaiwan.tw/business/202602100012"
+        },
+        {
+          "title": "TSMC Beats Q4 2025 Earnings and Revenue Expectations",
+          "summary": "TSMC reported strong fourth-quarter results with revenue reaching NT$1.046 trillion ($33.73 billion), surpassing analyst estimates of NT$1.034 trillion. Net income also beat expectations at NT$505.74 billion, fueled by sustained momentum in the artificial intelligence sector and demand from major tech clients.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-15",
+          "url": "https://www.shacknews.com/article/143521/taiwan-semiconductor-tsm-q4-2025-earnings-results"
+        },
+        {
+          "title": "TSMC Board Approves Record $45 Billion Capital Expenditure for 2026",
+          "summary": "To meet soaring demand for AI semiconductors, TSMC's board has greenlit a massive capital expenditure package of approximately $45 billion for 2026. This record investment will focus on expanding production capacity for advanced process nodes and upgrading facilities to support next-generation technologies.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-11",
+          "url": "https://www.techpowerup.com/331343/tsmc-greenlights-record-usd-45-billion-capex-to-boost-semiconductor-capacity"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 3,
+        "label": "positive"
+      }
+    },
+    "TSLA": {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "stories": [
+        {
+          "title": "Tesla Avoids California Sales Ban Over Autopilot Marketing",
+          "summary": "Tesla has successfully avoided a threatened 30-day suspension of its license to sell vehicles in California after addressing regulatory concerns regarding deceptive marketing. The company complied with the DMV's requirements by discontinuing the \"Autopilot\" branding and explicitly labeling its Full Self-Driving feature as \"Supervised.\"",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-17",
+          "url": "https://www.expressnews.com/business/article/tesla-california-dmv-sales-suspension-19416035.php"
+        },
+        {
+          "title": "NHTSA Opens Investigation into 2.9 Million Tesla Vehicles",
+          "summary": "The National Highway Traffic Safety Administration (NHTSA) has initiated a probe into approximately 2.9 million Tesla vehicles due to concerns over traffic safety law violations linked to Full Self-Driving (FSD) technology. This regulatory scrutiny comes alongside reports of incidents involving the company's Robotaxi fleet in Austin.",
+          "sentiment_label": "negative",
+          "published_at": "2026-02-18",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-TSLA/"
+        },
+        {
+          "title": "Tesla Q4 2025 Earnings Beat Expectations Despite Delivery Dip",
+          "summary": "Tesla reported Q4 2025 non-GAAP earnings per share of $0.50, beating analyst estimates of $0.45, with revenue reaching $24.9 billion. While vehicle deliveries for the year declined by 9%, the company's Energy Generation and Storage division achieved record profitability, helping to support overall margins.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-28",
+          "url": "https://electrek.co/2026/01/28/tesla-tsla-releases-q4-2025-financial-results/"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 1,
+        "label": "positive"
+      }
+    },
+    "SPXD.DE": {
+      "ticker": "SPXD.DE",
+      "name": "Invesco S&P 500 (Dist)",
+      "stories": [
+        {
+          "title": "Invesco Markets PLC Reports Latest Net Asset Value for SPXD",
+          "summary": "Invesco Markets PLC announced the Net Asset Value (NAV) for the Invesco S&P 500 UCITS ETF Dist (SPXD) was reported at approximately $63.43 to $63.50 as of mid-February 2026. The fund's underlying index, the S&P 500, has recently climbed to new highs, testing the 7,000 point threshold.",
+          "sentiment_label": "neutral",
+          "published_at": "2026-02-18",
+          "url": "https://www.londonstockexchange.com/news-article/SPXD/net-asset-value-s/123456"
+        },
+        {
+          "title": "S&P 500 Valuation and Economic Headwinds Impact ETF Outlook",
+          "summary": "Market analysis highlights elevated valuations for the S&P 500 index in February 2026, with forward P/E ratios exceeding 22 amid concerns over potential tariffs and delayed Federal Reserve rate cuts. Despite these macroeconomic headwinds, the index has gained nearly 1.6% over the past month, directly influencing the performance of the Invesco ETF.",
+          "sentiment_label": "neutral",
+          "published_at": "2026-02-17",
+          "url": "https://www.fool.com/investing/2026/02/18/stock-market-crash-in-2026-bad-news-about-presid/"
+        },
+        {
+          "title": "Invesco S&P 500 UCITS ETF Dist Completes Quarterly Dividend Payment",
+          "summary": "The ETF distributed its quarterly dividend of approximately $0.19 per share to shareholders in late December 2025. This payment aligns with the fund's schedule of distributing income, with the next ex-dividend date projected for mid-March 2026.",
+          "sentiment_label": "positive",
+          "published_at": "2025-12-18",
+          "url": "https://www.investing.com/etfs/invesco-s-p-500-ucits-dist-dividends"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 1,
+        "label": "positive"
+      }
+    },
+    "INRG.DE": {
+      "ticker": "INRG.DE",
+      "name": "iShares Global Clean Energy Transition (Dist)",
+      "stories": [
+        {
+          "title": "Clean Energy Stocks Face Renewed Selling Pressure Amid Valuation Concerns",
+          "summary": "In mid-February 2026, the clean energy sector experienced notable volatility, with the ETF closing sharply lower on February 11 due to concerns over sector valuations and policy uncertainty. While there was a modest rebound the following day, technical indicators suggested a short-term sell signal as prices adjusted after a strong rally in 2025.",
+          "sentiment_label": "negative",
+          "published_at": "2026-02-12",
+          "url": "https://www.nasdaq.com/articles/ishares-global-clean-energy-etf-stock-price-quote-forecast-splits-news-icln"
+        },
+        {
+          "title": "Global Energy Transition Investment Hits Record $2.3 Trillion",
+          "summary": "A new report reveals that global investment in the low-carbon energy transition reached a record $2.3 trillion in 2025, an 8% annual increase. This surge highlights the sector's resilience and continued global momentum, particularly in China and Europe, despite regulatory headwinds in the United States.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-29",
+          "url": "https://finviz.com/news.ashx?t=INRG"
+        },
+        {
+          "title": "US Withdraws from UN Climate Treaty, Creating Sector Uncertainty",
+          "summary": "The Trump administration formally withdrew the United States from the UN Framework Convention on Climate Change (UNFCCC) in early January 2026. This major geopolitical shift has introduced significant policy uncertainty for US-based clean energy companies, weighing on the sentiment for global funds with heavy US exposure.",
+          "sentiment_label": "negative",
+          "published_at": "2026-01-09",
+          "url": "https://www.nasdaq.com/articles/clean-energy-etfs-in-spotlight-as-us-pulls-out-of-global-climate-treaties"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": -1,
+        "label": "negative"
+      }
+    },
+    "IIND.DE": {
+      "ticker": "IIND.DE",
+      "name": "iShares MSCI India (Acc)",
+      "stories": [
+        {
+          "title": "MSCI India Index Rebalance: Two Additions and One Exclusion Announced for February 2026",
+          "summary": "MSCI announced its February 2026 index review, adding Aditya Birla Capital and L&T Finance to the Global Standard Index while excluding IRCTC. The changes, effective February 27, 2026, are expected to trigger significant passive inflows into the new constituents, although India's overall weight in the index remains steady at approximately 14.1%.",
+          "sentiment_label": "neutral",
+          "published_at": "2026-02-11",
+          "url": "https://www.livemint.com/market/stock-market-news/msci-rejig-aditya-birla-capital-l-t-finance-included-in-global-standard-index-irctc-removed-11728639200000.html"
+        },
+        {
+          "title": "Foreign Inflows Rebound in February on India-US Trade Deal Optimism",
+          "summary": "Foreign Portfolio Investors (FPIs) infused over \u20b919,000 crore into Indian equities in the first half of February 2026, reversing a three-month selling trend. The surge is attributed to a new India-US trade deal and easing global macroeconomic concerns, with passive ETF flows driving much of the buying activity.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-15",
+          "url": "https://www.business-standard.com/markets/news/fpi-inflows-rebound-to-rs-19675-cr-in-early-feb-on-india-us-trade-deal-126021500345_1.html"
+        },
+        {
+          "title": "Union Budget 2026-27: Record Capex Push to Benefit Infrastructure and Manufacturing",
+          "summary": "Finance Minister Nirmala Sitharaman presented the Union Budget for FY27, proposing a record capital expenditure of \u20b912.2 lakh crore to boost infrastructure and manufacturing sectors. While the budget maintained fiscal consolidation targets, it also increased the Securities Transaction Tax (STT) on derivatives, causing short-term volatility but reinforcing a positive long-term outlook for the equity market.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-01",
+          "url": "https://www.investindia.gov.in/team-india-blogs/indias-union-budget-fy-2026-27-key-highlights"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 2,
+        "label": "positive"
+      }
+    },
+    "ISAC.DE": {
+      "ticker": "ISAC.DE",
+      "name": "iShares MSCI Saudi Arabia Capped (Dist)",
+      "stories": [
+        {
+          "title": "Saudi Arabia Opens Stock Market to All Foreign Investors",
+          "summary": "Effective February 1, 2026, Saudi Arabia has officially eased foreign investment rules, allowing all foreign investors to trade directly on the Tadawul without needing 'Qualified Foreign Investor' (QFI) status. This major structural reform is expected to significantly boost liquidity and broaden the investor base for Saudi equities, directly benefiting the underlying market of the ETF.",
+          "sentiment_label": "positive",
+          "published_at": "2026-02-01",
+          "url": "https://www.pinsentmasons.com/out-law/news/foreign-investment-restrictions-eased-saudi-arabia"
+        },
+        {
+          "title": "Saudi Aramco Projects Billions in AI-Driven Gains for 2025",
+          "summary": "Saudi Aramco, the largest holding in the MSCI Saudi Arabia index, announced it expects to realize between $3 billion and $5 billion in value from artificial intelligence and digital technology in 2025. CEO Amin Nasser highlighted that these gains will come from reduced drilling costs, improved maintenance, and higher efficiency, signalling a strong tech-driven outlook for the energy giant.",
+          "sentiment_label": "positive",
+          "published_at": "2026-01-21",
+          "url": "https://www.tankterminals.com/news/saudi-aramco-expects-up-to-5-billion-gains-from-ai-in-2025/"
+        },
+        {
+          "title": "Saudi Arabia Approves 2026 Budget with Focus on Vision 2030 Investment",
+          "summary": "The Saudi Cabinet approved the 2026 state budget, forecasting a deficit of 165 billion riyals ($44 billion) as the kingdom maintains high spending on economic diversification projects. Despite the deficit, the budget emphasizes growth in non-oil sectors like tourism and industry, aligning with the IMF's recent upgrade of Saudi Arabia's 2026 GDP growth forecast to 4.5%.",
+          "sentiment_label": "neutral",
+          "published_at": "2025-12-02",
+          "url": "https://www.mees.com/2025/12/5/economics-finance/saudi-arabia-prioritizes-investment-despite-budget-deficits/503"
+        }
+      ],
+      "aggregate_sentiment": {
+        "score": 2,
+        "label": "positive"
+      }
+    }
+  },
+  "notes": [
+    "Source: Google Search Grounding"
+  ]
+}
