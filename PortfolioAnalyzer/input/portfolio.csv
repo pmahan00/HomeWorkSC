@@ -1,0 +1,15 @@
+ticker,name,sector,country,asset_type,quantity
+ASML,ASML Holding,Semiconductors,Netherlands,Stock,10
+COST,Costco Wholesale,Consumer Staples,USA,Stock,15
+VH2.DE,Friedrich Vorwerk Group,Energy Infrastructure,Germany,Stock,200
+OR.PA,L'Oreal,Consumer Discretionary,France,Stock,25
+MAIN,Main Street Capital Co,Financials (BDC),USA,Stock,40
+NVO,Novo Nordisk ADR B,Healthcare,Denmark,Stock,30
+NVDA,NVIDIA,Semiconductors,USA,Stock,12
+RHM.DE,Rheinmetall,Defense & Automotive,Germany,Stock,20
+TSM,Taiwan Semiconductor Manufacturing,Semiconductors,Taiwan,Stock,35
+TSLA,Tesla,Auto & Tech,USA,Stock,18
+SPXD.DE,Invesco S&P 500 (Dist),US Broad Market,USA,ETF,50
+INRG.DE,iShares Global Clean Energy Transition (Dist),Renewables,Global,ETF,75
+IIND.DE,iShares MSCI India (Acc),Emerging Markets,India,ETF,60
+ISAC.DE,iShares MSCI Saudi Arabia Capped (Dist),Emerging Markets,Saudi Arabia,ETF,40
