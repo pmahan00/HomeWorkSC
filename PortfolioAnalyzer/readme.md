@@ -34,8 +34,12 @@ Action: Feeds all the data (metrics + news) into the LLM to write a textual summ
 Role: Display.
 Action: A Streamlit dashboard that visualizes your holdings, charts, AI discoveries, and news in a web browser.
 
-Screneshots 
-1. ![portfolio analysis](images/aiinsights.png)
-2. ![AI Market Discovery](images/aimarketdiscovery.png)
-3. ![News Story](images/marketdiscovery.png)
-4. ![simple overview](images/overview.png)
+Screenshots 
+1.*Portfolio Analysis*
+![portfolio analysis](images/aiinsights.png)
+2.*AI Market Discovery* 
+![AI Market Discovery](images/aimarketdiscovery.png)
+3.*News Story Feed*
+![News Story](images/marketdiscovery.png)
+4. *Simple Overview*
+![simple overview](images/overview.png)
