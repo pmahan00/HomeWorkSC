@@ -8,7 +8,7 @@ It demonstrates how AI can:
 - Discover competitor and complementary stocks
 - Generate human-readable portfolio insights
 - The objective is to showcase how AI can enhance customer experience, increase engagement, and scale advisory capabilities within a fintech environment.
-Detailed documentation and architecture can be found inside the /portfolio_analyzer folder.
+Detailed documentation and architecture can be found inside the `/PortfolioAnalyzer`folder
 
 2. *AI Evaluation framework*
    
