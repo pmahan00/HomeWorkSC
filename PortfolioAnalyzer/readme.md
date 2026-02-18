@@ -2,6 +2,7 @@
 This project is an AI-powered financial dashboard. It takes a simple CSV of your stock holdings, fetches real-time market data, calculates risk metrics, searches for relevant news, and uses Google's Gemini (Nexus) to discover new investment opportunities.
 
 # Code structure 
+### Obs: I am using custom gemini end points.  For using gemini keys directly the code needs to be adapted 
 Configuration
 `sc/config/settings.py` It manages file paths and loads your API keys.
 `sc/env/secrets.env` Stores your sensitive API keys (Gitignored).
