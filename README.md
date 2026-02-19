@@ -1,6 +1,8 @@
 This repo is divided into 2 parts
 
-1. *A working AI-powered portfolio intelligence prototype*
+### Task 1 : Create 
+#### A AI powered portfolio intelligence prototype
+##### Path to Folder : `https://github.com/pmahan00/HomeWorkSC/tree/main/PortfolioAnalyzer`
 It demonstrates how AI can:
 - Analyze stock portfolios
 - Calculate risk metrics
@@ -10,5 +12,9 @@ It demonstrates how AI can:
 - The objective is to showcase how AI can enhance customer experience, increase engagement, and scale advisory capabilities within a fintech environment.
 Detailed documentation and architecture can be found inside the `/PortfolioAnalyzer`folder
 
-2. *AI Evaluation framework*
+### Task2 Quality and Compliance 
+#### Path to Folder: `https://github.com/pmahan00/HomeWorkSC/tree/main/AIEvaluationBlackBoxTesting`
+- It demonstrates a high level design of a compliance system
+- There is brief description of each block in the readme file. 
+
    
