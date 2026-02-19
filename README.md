@@ -3,6 +3,7 @@ This repo is divided into 2 parts
 ### Task 1 : Create 
 #### A AI powered portfolio intelligence prototype
 ##### Path to Folder : `https://github.com/pmahan00/HomeWorkSC/tree/main/PortfolioAnalyzer`
+##### Demo : [web demo](https://youtu.be/hz2Rsi-2WF4)
 It demonstrates how AI can:
 - Analyze stock portfolios
 - Calculate risk metrics
