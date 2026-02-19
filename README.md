@@ -1,8 +1,9 @@
-This repo is divided into 2 parts
+This repo is divided into 2 folders. Each folder describes the Create and Quality & Compliance tasks in detail)
 
 ### Task 1 : Create 
 #### A AI powered portfolio intelligence prototype
 ##### Path to Folder : `https://github.com/pmahan00/HomeWorkSC/tree/main/PortfolioAnalyzer`
+[Create](https://github.com/pmahan00/HomeWorkSC/tree/main/PortfolioAnalyzer)
 ##### Demo : [web demo](https://youtu.be/hz2Rsi-2WF4)
 It demonstrates how AI can:
 - Analyze stock portfolios
@@ -15,6 +16,7 @@ Detailed documentation and architecture can be found inside the `/PortfolioAnaly
 
 ### Task2 Quality and Compliance 
 #### Path to Folder: `https://github.com/pmahan00/HomeWorkSC/tree/main/AIEvaluationBlackBoxTesting`
+[Quality & Compliance](https://github.com/pmahan00/HomeWorkSC/tree/main/AIEvaluationBlackBoxTesting)
 - It demonstrates a high level design of a compliance system
 - There is brief description of each block in the readme file. 
 
